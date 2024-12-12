@@ -1,4 +1,5 @@
 # Tableau Sales and Customer Dashboards
+https://github.com/user-attachments/assets/49107be4-dced-4f25-bfc9-6f4a5f3facfd
 
 This project involves the creation of two interactive Tableau dashboards: one for analyzing **sales performance** and another for understanding **customer behaviors and trends**. The dashboards are designed to provide stakeholders—including sales managers, executives, and marketing teams—with the necessary tools to make informed decisions based on historical sales and customer data.
 
